@@ -6,5 +6,6 @@ int main(int argc, char const *argv[])
     int a =1;
     int b = 2;
     float f1 = 3.0;
+    float f2 = 4.0;
     return 0;
 }
